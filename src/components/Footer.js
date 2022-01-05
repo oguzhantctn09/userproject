@@ -4,19 +4,6 @@ import {Row, Col, Container} from 'react-bootstrap';
 function Footer() {
   return (
     <div className="bg-secondary p-5 ">
-    <Row className="ml-5"> 
-    <Col xs={5}> 
-      <a href="https://www.primeit.com.tr/tr/" rel="noreferrer" target="_blank">
-      <img
-          alt=""
-          src= '/images/logo2.svg'
-          width="200"
-          height="70"
-          className="d-inline-block align-top"
-      />
-      </a>
-      </Col>
-    </Row>
       
 
     <Row className=" mt-5">
