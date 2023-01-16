@@ -103,8 +103,6 @@ const CreateUser = () => {
        academic="Bilgi Yok";
       };
 
-
-
       if(isValid === true ) {
         
         try{
